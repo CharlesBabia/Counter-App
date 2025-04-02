@@ -48,7 +48,7 @@ button:hover{
     justify-content: center;
     align-items: center;
 }
-.header{
+.shake{
     margin: 0px;
     width: 60%;
     text-align: center;
@@ -57,6 +57,6 @@ button:hover{
     border: 2px solid #D4DD4B;
     border-radius: 100%;
 }
-.header:hover{
+.shake:hover{
     display: none;
 }
