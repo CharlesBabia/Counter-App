@@ -3,9 +3,7 @@ body{
     flex-direction: column;
     align-items: center;
     background-image: url(train.gif);
-    background-size: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
+    background-size: cover;
     color: aliceblue;
     margin: 0px;
 }
@@ -52,11 +50,12 @@ button:hover{
 }
 .header{
     margin: 0px;
-    width: 100%;
+    width: 60%;
     text-align: center;
     background-color: #81C594;
     color: black;
     border: 2px solid #D4DD4B;
+    border-radius: 100%;
 }
 .header:hover{
     display: none;
